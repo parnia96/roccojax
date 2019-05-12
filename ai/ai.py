@@ -89,6 +89,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://enlight.nyc/projects/neural-network/
 https://www.youtube.com/watch?v=2rDkQWi-RA4&t=666s
 https://www.youtube.com/watch?v=DWsJc1xnOZo
 https://www.theverge.com/2019/1/28/18194816/ai-artificial-intelligence-issue
