@@ -89,6 +89,10 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.nanowerk.com/news2/robotics/newsid=52814.php?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=nanowerkemergingtechnologiesnews
+https://www.scitecheuropa.eu/hyperdimensional-computing-theory-robots-memory/95060/
+https://bigthink.com/technology-innovation/discovery-ai-robots-create-memories
+https://www.innovationtoronto.com/2019/05/hyperdimensional-computing-theory-could-change-the-way-ai-works-by-helping-robots-to-remember/
 https://thenextweb.com/artificial-intelligence/2019/05/17/hyperdimensional-computing-theory-could-lead-to-ai-with-memories-and-reflexes/
 https://www.allaboutcircuits.com/news/artificial-intelligence-memory-basics-of-hyperdimensional-computing/
 https://enlight.nyc/projects/neural-network/
