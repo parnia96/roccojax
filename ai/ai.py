@@ -89,6 +89,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://thenextweb.com/artificial-intelligence/2019/05/17/hyperdimensional-computing-theory-could-lead-to-ai-with-memories-and-reflexes/
+https://www.allaboutcircuits.com/news/artificial-intelligence-memory-basics-of-hyperdimensional-computing/
 https://enlight.nyc/projects/neural-network/
 https://www.youtube.com/watch?v=2rDkQWi-RA4&t=666s
 https://www.youtube.com/watch?v=DWsJc1xnOZo
