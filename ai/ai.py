@@ -89,6 +89,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://techxplore.com/news/2019-03-memory-approach-enable-lifelong.html
+https://techxplore.com/news/2019-05-framework-artificial-intelligence.html
 https://phys.org/news/2019-06-machine-sensors.html
 https://www.youtube.com/watch?v=zUCoxhExe0o
 https://www.nanowerk.com/news2/robotics/newsid=52814.php?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=nanowerkemergingtechnologiesnews
