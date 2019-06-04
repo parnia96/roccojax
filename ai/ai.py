@@ -89,6 +89,14 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://techxplore.com/news/2019-05-ai-taught-video-game-beatinghumans.html
+https://robotics.sciencemag.org/content/4/30/eaaw6736
+https://www.sciencedaily.com/releases/2019/05/190515165455.htm
+https://techxplore.com/news/2019-05-algorithm-people-pictures-videos-faster.html
+https://techxplore.com/news/2018-10-developmental-framework-robots-optimize-hyper-parameters.html
+https://techxplore.com/news/2018-10-brain-inspired-algorithm-ai-multitask.html
+https://techxplore.com/news/2019-03-memory-approach-enable-lifelong.html
+https://www.sri.com/work/projects/artificial-intelligence-system-continually-learns
 https://techxplore.com/news/2019-03-memory-approach-enable-lifelong.html
 https://techxplore.com/news/2019-05-framework-artificial-intelligence.html
 https://phys.org/news/2019-06-machine-sensors.html
