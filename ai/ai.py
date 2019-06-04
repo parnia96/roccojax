@@ -89,6 +89,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://phys.org/news/2019-06-machine-sensors.html
 https://www.youtube.com/watch?v=zUCoxhExe0o
 https://www.nanowerk.com/news2/robotics/newsid=52814.php?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=nanowerkemergingtechnologiesnews
 https://www.scitecheuropa.eu/hyperdimensional-computing-theory-robots-memory/95060/
