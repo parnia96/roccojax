@@ -89,6 +89,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://techxplore.com/news/2019-05-recreate-human-like-machines.html
+https://techxplore.com/news/2019-05-robots-hyperdimensional-theory-ai.html
 https://techxplore.com/news/2019-05-ai-taught-video-game-beatinghumans.html
 https://robotics.sciencemag.org/content/4/30/eaaw6736
 https://www.sciencedaily.com/releases/2019/05/190515165455.htm
