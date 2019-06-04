@@ -89,6 +89,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.innovationtoronto.com/2019/02/engineers-create-a-robot-that-can-imagine-itself/
+https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5
 https://techxplore.com/news/2019-05-recreate-human-like-machines.html
 https://techxplore.com/news/2019-05-robots-hyperdimensional-theory-ai.html
 https://techxplore.com/news/2019-05-ai-taught-video-game-beatinghumans.html
