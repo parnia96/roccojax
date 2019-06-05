@@ -92,6 +92,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.youtube.com/watch?v=1NxnPkZM9bc
+https://www.youtube.com/watch?v=j_pJmXJwMLA
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://skymind.ai/wiki/lstm
 https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
