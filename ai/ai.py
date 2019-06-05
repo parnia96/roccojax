@@ -92,6 +92,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/gas-and-nns-6a41f1e8146d
+https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
+https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
 https://medium.com/analytics-vidhya/the-scuffle-between-two-algorithms-neural-network-vs-support-vector-machine-16abe0eb4181
 https://www.youtube.com/watch?v=1NxnPkZM9bc
 https://www.youtube.com/watch?v=j_pJmXJwMLA
