@@ -92,6 +92,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/analytics-vidhya/the-scuffle-between-two-algorithms-neural-network-vs-support-vector-machine-16abe0eb4181
 https://www.youtube.com/watch?v=1NxnPkZM9bc
 https://www.youtube.com/watch?v=j_pJmXJwMLA
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
