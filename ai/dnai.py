@@ -8,3 +8,7 @@
 # https://www.wired.com/story/google-is-giving-away-ai-that-can-build-your-genome-sequence/
 # https://emerj.com/ai-sector-overviews/machine-learning-in-genomics-applications/
 # https://www.alphr.com/artificial-intelligence/1010248/ai-successfully-predict-changes-in-dna
+# https://blog.floydhub.com/exploring-dna-with-deep-learning/
+# https://towardsdatascience.com/deep-learning-on-ancient-dna-df042dc3c73d
+# https://www.nature.com/articles/s41588-018-0328-0
+# https://www.kaggle.com/thomasnelson/working-with-dna-sequence-data-for-ml
