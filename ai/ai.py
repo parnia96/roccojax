@@ -9,7 +9,7 @@
 # build ur icfu SlAb(wocfulab) in csr with ur team using AI + use ANN ML DL in MAN project to take them down + build AI projects and cvs with ICFU team(u know who they R!)
 # TOKNOW: ai health itself (how it know what is it doing like human? try to understand west world movie!)
 # TOKNOW: lstm vs self-awareness and human memory
-# TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow traditional ann(RIL, SUPL, USUPL)
+# TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
 # TOKNOW: ANI-AGI-ASI
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
