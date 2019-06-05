@@ -91,6 +91,10 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://skymind.ai/wiki/lstm
+https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0
+https://medium.com/datadriveninvestor/recurrent-neural-networks-and-long-short-term-memory-5d17bdbdfc00
 https://www.analyticsvidhya.com/blog/2018/07/evolutionary-algorithm-perfect-useful-alternative-neural-network/
 https://www.innovationtoronto.com/2019/02/engineers-create-a-robot-that-can-imagine-itself/
 https://towardsdatascience.com/recurrent-neural-networks-and-lstm-4b601dd822a5
