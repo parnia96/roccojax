@@ -11,6 +11,7 @@
 # TOKNOW: lstm vs self-awareness and human memory
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
 # TOKNOW: ANI-AGI-ASI
+# TOOLS: https://www.youtube.com/watch?v=inN8seMm7UI&list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL => google colab
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
 # TODO: build ur virus using AI like so: first it'll use ANN to create a cryptographic network(use all articles and pdfs in UT folder for ANN and machine learning) for its ransomware encryption(cL34n 3v3RytH!n9) also for bypassing technique it'll analyze the AV behavior to know the AV detection algorithms such as signature scanning to behavior the opposite of it and hide itself from AV; the virus has two main parts in which the AV behavior analyzing is the first part for bypassing and the main content of virus(ransomware, backdoor) is the second part which will run after a success analyzing job in first part! also it'll use the blockchain for storing vic and AV infos after successfull detection
