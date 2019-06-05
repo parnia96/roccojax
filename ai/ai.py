@@ -92,6 +92,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/predict/a-step-towards-agi-the-story-of-alphago-e0fafd83e6b9
+https://deepmind.com/research/alphago/
 https://towardsdatascience.com/gas-and-nns-6a41f1e8146d
 https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
 https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
