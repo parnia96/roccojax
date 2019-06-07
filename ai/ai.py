@@ -92,6 +92,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 https://www.youtube.com/watch?v=Pls_q2aQzHg
 https://medium.com/predict/a-step-towards-agi-the-story-of-alphago-e0fafd83e6b9
 https://deepmind.com/research/alphago/
