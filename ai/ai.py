@@ -92,6 +92,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://pastebin.com/ZZmSNaHX
+https://www.analytics-link.com/single-post/2019/02/14/Password-Cracking-with-a-Genetic-Algorithm
 https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.23350
 https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 https://www.youtube.com/watch?v=Pls_q2aQzHg
