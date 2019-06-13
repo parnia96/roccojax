@@ -94,6 +94,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc
 https://pastebin.com/ZZmSNaHX
 https://www.analytics-link.com/single-post/2019/02/14/Password-Cracking-with-a-Genetic-Algorithm
 https://onlinelibrary.wiley.com/doi/abs/10.1002/cjce.23350
