@@ -21,7 +21,7 @@
 # TODO: build ur own framework based on AI and ANN ; you can see the wocfulab.todo
 # TODO: spoil prevention idea for movies using AI (watch what u want!)
 # TODO: solve Artificial Super Intelligence(ASI) dangerous and problems using a two way neuron wave collector which it can put/read thoughts in/from your mind like Doublegainer or Password_Cracker idea(for that we have to build a security protocl like our ASI must prevent those bad thoughts like killing or wars from being happen or no one can hear other thoughts) | implement the abstract of inertia or force for our ASI
-# TODO: build a nano robots using Reinforement Learning or Deep Neuroevolution to put them inside our body for two way neuron wave collector device to interact with our neuron waves and send their info waves or thoughts waves to our device for ASI ops 
+# TODO: build a nano robots using Reinforement Learning openAI PPO algo or Deep Neuroevolution to put them inside our body for two way neuron wave collector device to interact with our neuron waves and send their info waves or thoughts waves to our device for ASI ops 
 # TODO: create a script for sql injection using ANN; use GyoiThon framework and related below github links ; also build a graph based todo app on top of AI using ~WOCAPP idea(the agent must understand you and tell you what job you have to do it now according to ur mood)
 # TODO: create a tool to decrypt all passwords algos using ANN(encrypt and crack all algos with ANN) ; create an agent to crack all apps and build the keygen
 # TODO: build an AI/RL based operating system called AIVO for my hacking and jabing purposes; os create the botnet itself; build a os to control the baseband and more things
