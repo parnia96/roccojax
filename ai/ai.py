@@ -20,6 +20,7 @@
 # TODO: think about to create a bot or anything for rana to answer every fucking question of her instead of me using AI ANN ML DL
 # TODO: build ur own framework based on AI and ANN ; you can see the wocfulab.todo
 # TODO: spoil prevention idea for movies using AI (watch what u want!)
+# TODO: solve Artificial Super Intelligence(ASI) dangerous and problem using a two way neuron wave collector which it can put/read thoughts in your mind like Doublegainer or Password_Cracker idea | implement the abstract of inertia or force for our ASI
 # TODO: create a script for sql injection using ANN; use GyoiThon framework and related below github links ; also build a graph based todo app on top of AI using ~WOCAPP idea(the agent must understand you and tell you what job you have to do it now according to ur mood)
 # TODO: create a tool to decrypt all passwords algos using ANN(encrypt and crack all algos with ANN) ; create an agent to crack all apps and build the keygen
 # TODO: build an AI/RL based operating system called AIVO for my hacking and jabing purposes; os create the botnet itself; build a os to control the baseband and more things
@@ -395,6 +396,7 @@ https://medium.com/@reputaction/decentralized-application-dapp-platform-selectio
     Device Using Brain's And Device's Synapses, Maybe We Have To Use Quantum Computing Machine; we can use IPFS or storj => decentralized and distributed storage(BlockchainTech folder)
     	CONCEPTS: simulation, iot concept, probabilistic
     	programming languages: python + ethereum stack
+	AI-TYPE : Artificial Super Intelligence
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     proof-of-Telegram_Sloving_Question_Bot-idea => Build A Telegram Bot To Solve An Specific Question From Its Picture And Send Us The Answer In A picture
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
