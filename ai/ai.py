@@ -95,6 +95,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/understanding-generative-adversarial-networks-4dafc963f2ef
 https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc
 https://pastebin.com/ZZmSNaHX
 https://www.analytics-link.com/single-post/2019/02/14/Password-Cracking-with-a-Genetic-Algorithm
