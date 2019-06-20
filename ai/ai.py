@@ -96,6 +96,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/@radicalrafi/untitled-document-md-87f85d658a9a
+https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
+https://dzone.com/articles/malware-detection-with-convolutional-neural-networ
 https://github.com/AFAgarap/malware-classification
 https://dzone.com/articles/malware-detection-with-convolutional-neural-networ
 https://github.com/AFAgarap/malware-classification
