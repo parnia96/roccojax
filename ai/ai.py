@@ -96,6 +96,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://indico.io/blog/recognizing-emotion-in-text-machine-learning-no-code/
+http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
+https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
 https://www.tensorflow.org/tutorials/non-ml/pdes
 https://csirtgadgets.com/commits/2018/8/17/hunting-for-malicious-connections-using-python-and-tensorflow
 https://medium.com/@radicalrafi/untitled-document-md-87f85d658a9a
