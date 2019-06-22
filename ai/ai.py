@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.tensorflow.org/tutorials/non-ml/pdes
 https://csirtgadgets.com/commits/2018/8/17/hunting-for-malicious-connections-using-python-and-tensorflow
 https://medium.com/@radicalrafi/untitled-document-md-87f85d658a9a
 https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
