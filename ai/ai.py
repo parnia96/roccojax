@@ -96,6 +96,12 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/
+https://medium.com/@AIerusalem/catastrophic-importance-of-catastrophic-forgetting-c1c2a245a662
+https://www.forbes.com/sites/federicoguerrini/2017/05/08/new-deep-learning-system-allows-ai-to-solve-catastrophic-forgetting-problem/
+https://www.pnas.org/content/114/13/3521
+https://qz.com/933223/deepmind-developed-an-artificial-intelligence-algorithm-to-tackle-catastrophic-forgetting/
+https://www.telegraph.co.uk/technology/2017/03/15/googles-deepmind-ai-learns-like-human-overcome-catastrophic/
 https://indico.io/blog/recognizing-emotion-in-text-machine-learning-no-code/
 http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
 https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
