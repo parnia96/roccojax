@@ -11,4 +11,5 @@
 # https://blog.floydhub.com/exploring-dna-with-deep-learning/
 # https://towardsdatascience.com/deep-learning-on-ancient-dna-df042dc3c73d
 # https://www.nature.com/articles/s41588-018-0328-0
+# https://www.mdpi.com/1422-0067/19/7/2114/htm
 # https://www.kaggle.com/thomasnelson/working-with-dna-sequence-data-for-ml
