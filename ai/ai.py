@@ -96,6 +96,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c
+https://scialert.net/fulltextmobile/?doi=jas.2007.2812.2817
 https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/
 https://medium.com/@AIerusalem/catastrophic-importance-of-catastrophic-forgetting-c1c2a245a662
 https://www.forbes.com/sites/federicoguerrini/2017/05/08/new-deep-learning-system-allows-ai-to-solve-catastrophic-forgetting-problem/
