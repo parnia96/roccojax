@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.futurity.org/deepfake-videos-detection-computer-vision-2088302/
 https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c
 https://scialert.net/fulltextmobile/?doi=jas.2007.2812.2817
 https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/
