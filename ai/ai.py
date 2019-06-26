@@ -97,6 +97,15 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.psychologytoday.com/us/blog/the-future-brain/201904/neuroscientists-transform-brain-activity-speech-ai
+https://www.theregister.co.uk/2019/01/30/ai_brain_reader/
+https://www.wired.com/story/ml-brain-boost/
+https://www.infoq.com/news/2019/03/deep-learning-speech-brain/
+https://newatlas.com/brain-signals-into-speech-algorithm/58253/
+https://www.digitaltrends.com/cool-tech/ai-thought-to-speech/
+https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948
+https://towardsdatascience.com/from-brain-waves-to-arm-movements-with-deep-learning-an-introduction-3c2a8b535ece
+https://www.sciencemag.org/news/2019/01/artificial-intelligence-turns-brain-activity-speech
 https://eng.umd.edu/release/helping-robots-remember-hyperdimensional-computing-theory-could-change-the-way-ai-works
 https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/
 https://www.futurity.org/deepfake-videos-detection-computer-vision-2088302/
