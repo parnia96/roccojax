@@ -97,6 +97,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://eng.umd.edu/release/helping-robots-remember-hyperdimensional-computing-theory-could-change-the-way-ai-works
 https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/
 https://www.futurity.org/deepfake-videos-detection-computer-vision-2088302/
 https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c
