@@ -13,3 +13,5 @@
 # https://www.nature.com/articles/s41588-018-0328-0
 # https://www.mdpi.com/1422-0067/19/7/2114/htm
 # https://www.kaggle.com/thomasnelson/working-with-dna-sequence-data-for-ml
+# https://homes.cs.washington.edu/~bornholt/dnastorage-asplos16/
+# https://twistbioscience.com/company/blog/twistbiosiencednastoragefountain
