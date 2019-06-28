@@ -12,11 +12,10 @@
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
 # TOKNOW: ANI-AGI-ASI
 # TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV) 
-# TOOLS: pytorch/tensorflow/keras/numpy/matplotlib on google colab
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
 # TODO: FUD malware creation using AI(pytorch/tensorflow/keras/numpy/matplotlib on google colab) and also malware detection/classification using machine learning
-# TODO: AI based(GAN, CNN, OPENCV, CSR) airdrone to do some IOT stuff using blockchain to run airline transportation protocol
+# TODO: AI based(pytorch/tensorflow/keras/numpy/matplotlib/opencv on google colab) airdrone to do some IOT stuff using blockchain and serverless architecture(saas, faas, baas, paas) to run airline transportation protocol built on top of CSR
 # TODO: build ur virus using AI like so: first it'll use ANN to create a cryptographic network(use all articles and pdfs in UT folder for ANN and machine learning) for its ransomware encryption(cL34n 3v3RytH!n9) also for bypassing technique it'll analyze the AV behavior to know the AV detection algorithms such as signature scanning to behavior the opposite of it and hide itself from AV; the virus has two main parts in which the AV behavior analyzing is the first part for bypassing and the main content of virus(ransomware, backdoor) is the second part which will run after a success analyzing job in first part! also it'll use the blockchain for storing vic and AV infos after successfull detection
 # TODO: use AI in ur MAN project like backdoor creation using AI to bypass et; cause MAN proj is all u got to destroy them
 # TODO: think about hacking using ANN not a shity hack like iranian hack so build all types of ANN from scratch with ur own language(ur own compiler like dart) and math(derivation) concepts then put it on wocfulab 
