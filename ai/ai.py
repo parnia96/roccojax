@@ -10,7 +10,7 @@
 # TOKNOW: ai health itself (how it know what is it doing like human? try to understand west world movie!)
 # TOKNOW: lstm vs self-awareness and human memory
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
-# TOKNOW: ANI-AGI-ASI
+# TOKNOW: ANI-AGI-ASI , all about NLP and its vectors
 # TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV) 
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
@@ -96,6 +96,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://colab.research.google.com/drive/1p51HFDExl7XagWfSQE5leDQwBC6I_e3D
+https://colab.research.google.com/drive/14I-31WuynLg1B0RQHWwwRgBmqTlDgkwV
 https://www.microsoft.com/developerblog/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
 https://www.psychologytoday.com/us/blog/the-future-brain/201904/neuroscientists-transform-brain-activity-speech-ai
 https://www.theregister.co.uk/2019/01/30/ai_brain_reader/
