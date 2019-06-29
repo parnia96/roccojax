@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.microsoft.com/developerblog/2015/11/29/emotion-detection-and-recognition-from-text-using-deep-learning/
 https://www.psychologytoday.com/us/blog/the-future-brain/201904/neuroscientists-transform-brain-activity-speech-ai
 https://www.theregister.co.uk/2019/01/30/ai_brain_reader/
 https://www.wired.com/story/ml-brain-boost/
