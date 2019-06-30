@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/recurrent-neural-networks-and-natural-language-processing-73af640c2aa1
 https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html
 https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
 https://machinelearningmastery.com/natural-language-processing/
