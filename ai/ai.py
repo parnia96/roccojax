@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/analytics-vidhya/understanding-genetic-algorithms-in-the-artificial-intelligence-spectrum-7021b7cc25e7
 https://ai.stackexchange.com/questions/7721/how-does-lstm-in-deep-reinforcement-learning-differ-from-experience-replay
 https://colab.research.google.com/drive/1p51HFDExl7XagWfSQE5leDQwBC6I_e3D
 https://colab.research.google.com/drive/14I-31WuynLg1B0RQHWwwRgBmqTlDgkwV
