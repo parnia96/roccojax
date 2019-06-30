@@ -96,6 +96,10 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75
+https://medium.com/datadriveninvestor/neural-networks-explained-6e21c70d7818
+https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
+https://towardsdatascience.com/what-are-the-types-of-machine-learning-e2b9e5d1756f
 https://towardsdatascience.com/recurrent-neural-networks-and-natural-language-processing-73af640c2aa1
 https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html
 https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
