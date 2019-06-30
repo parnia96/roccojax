@@ -96,6 +96,13 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html
+https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b
+https://machinelearningmastery.com/natural-language-processing/
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+https://blog.algorithmia.com/introduction-natural-language-processing-nlp/
+https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
+https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32
 https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
 https://medium.com/analytics-vidhya/understanding-genetic-algorithms-in-the-artificial-intelligence-spectrum-7021b7cc25e7
 https://ai.stackexchange.com/questions/7721/how-does-lstm-in-deep-reinforcement-learning-differ-from-experience-replay
