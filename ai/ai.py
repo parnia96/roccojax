@@ -96,6 +96,12 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09
+https://towardsdatascience.com/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
+https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
+https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+https://towardsdatascience.com/recurrent-neural-networks-for-language-understanding-10c649f8ac15
+https://towardsdatascience.com/natural-language-processing-from-basics-to-using-rnn-and-lstm-ef6779e4ae66
 https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75
 https://medium.com/datadriveninvestor/neural-networks-explained-6e21c70d7818
 https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf
