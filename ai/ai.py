@@ -96,6 +96,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/word2vec-skip-gram-model-part-1-intuition-78614e4d6e0b
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf
 https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
 https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09
