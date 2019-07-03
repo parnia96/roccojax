@@ -96,6 +96,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
+https://medium.com/coinmonks/text-classifier-with-keras-tensorflow-using-recurrent-neural-networks-ad63dd5fc316
+https://realpython.com/python-keras-text-classification/
 https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
 https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
 https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
