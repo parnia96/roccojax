@@ -96,6 +96,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
 https://medium.com/coinmonks/text-classifier-with-keras-tensorflow-using-recurrent-neural-networks-ad63dd5fc316
 https://realpython.com/python-keras-text-classification/
