@@ -10,7 +10,7 @@
 # TOKNOW: ai health itself (how it know what is it doing like human? try to understand west world movie!)
 # TOKNOW: lstm vs self-awareness and human memory
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
-# TOKNOW: ANI-AGI-ASI , all about NLP and its vectors , unSED (unsupervised-emotion-detection) and SED (supervised-emotion-detection) using RNNs
+# TOKNOW: ANI-AGI-ASI , all about NLP and its vectors
 # TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV) 
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
