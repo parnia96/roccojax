@@ -96,6 +96,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
+https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
+https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition
 https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
