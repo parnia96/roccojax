@@ -96,6 +96,13 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
+https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90
+https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
+https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1
+https://medium.com/@jatinmandav3/digit-recognition-using-tensorflow-a3eb186a28d3
+https://medium.com/machine-learning-algorithms/mnist-using-recurrent-neural-network-2d070a5915a2
+https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae
 https://towardsdatascience.com/word2vec-skip-gram-model-part-1-intuition-78614e4d6e0b
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf
