@@ -96,15 +96,16 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
+https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition/notebook
+https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae
 https://towardsdatascience.com/sentiment-analysis-for-text-with-deep-learning-2f0a0c6472b5
 https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
 https://medium.com/mlreview/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
 https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
 https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
-https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition
 https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
-https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
 https://medium.com/coinmonks/text-classifier-with-keras-tensorflow-using-recurrent-neural-networks-ad63dd5fc316
 https://realpython.com/python-keras-text-classification/
 https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
@@ -113,7 +114,6 @@ https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advis
 https://medium.com/sciforce/nlp-vs-nlu-from-understanding-a-language-to-its-processing-1bf1f62453c1
 https://medium.com/@jatinmandav3/digit-recognition-using-tensorflow-a3eb186a28d3
 https://medium.com/machine-learning-algorithms/mnist-using-recurrent-neural-network-2d070a5915a2
-https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae
 https://towardsdatascience.com/word2vec-skip-gram-model-part-1-intuition-78614e4d6e0b
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf
