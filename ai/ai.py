@@ -96,6 +96,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
+https://medium.com/mlreview/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
 https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
 https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
 https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition
