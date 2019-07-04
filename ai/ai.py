@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://towardsdatascience.com/sentiment-analysis-for-text-with-deep-learning-2f0a0c6472b5
 https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
 https://medium.com/mlreview/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
 https://towardsdatascience.com/sentiment-analysis-using-lstm-step-by-step-50d074f09948
