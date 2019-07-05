@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://missinglink.ai/guides/deep-learning-frameworks/keras-conv1d-working-1d-convolutional-neural-networks-keras/
 https://www.kdnuggets.com/2018/04/implementing-deep-learning-methods-feature-engineering-text-data-skip-gram.html
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
 https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition/notebook
