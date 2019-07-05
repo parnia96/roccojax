@@ -99,6 +99,7 @@ SOURCES & TUTS:
 https://missinglink.ai/guides/deep-learning-frameworks/keras-conv1d-working-1d-convolutional-neural-networks-keras/
 https://www.kdnuggets.com/2018/04/implementing-deep-learning-methods-feature-engineering-text-data-skip-gram.html
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
+https://github.com/saitejdandge/Sentimental_Analysis_LSTM_Conv1D/
 https://www.kaggle.com/eray1yildiz/using-lstms-with-attention-for-emotion-recognition/notebook
 https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae
 https://towardsdatascience.com/sentiment-analysis-for-text-with-deep-learning-2f0a0c6472b5
