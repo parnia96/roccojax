@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
 https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
 https://missinglink.ai/guides/deep-learning-frameworks/keras-conv1d-working-1d-convolutional-neural-networks-keras/
