@@ -96,6 +96,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://medium.com/@ageitgey/natural-language-processing-is-fun-part-3-explaining-model-predictions-486d8616813c
 https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 https://medium.com/appening-io/emotion-classification-2d4ed93bf4e2
 https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
