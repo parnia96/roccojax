@@ -96,6 +96,10 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.sciencedaily.com/releases/2019/07/190701163827.htm
+https://www.sciencedaily.com/releases/2019/07/190702160115.htm
+https://www.sciencedaily.com/releases/2019/06/190625093304.htm
+https://machinelearningmastery.com/5-step-life-cycle-long-short-term-memory-models-keras/
 https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 https://medium.com/@shivajbd/understanding-input-and-output-shape-in-lstm-keras-c501ee95c65e
