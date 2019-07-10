@@ -96,6 +96,9 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://adventuresinmachinelearning.com/gensim-word2vec-tutorial/
+https://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/
+https://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/
 https://www.sciencedaily.com/releases/2019/07/190701163827.htm
 https://www.sciencedaily.com/releases/2019/07/190702160115.htm
 https://www.sciencedaily.com/releases/2019/06/190625093304.htm
