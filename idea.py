@@ -13,6 +13,10 @@
 # TOKNOW: ANI-AGI-ASI , all about NLP and its vectors
 # TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV)
 # TOKNOW: genetic algorithm as heuristic search method in all types of AI/ML/DL and all types of neural networks
+# TOKNOW: ES/GA/DN is an alternative for RL and some algo like DDQN is an improvement algo for DQN(DRL) and other alog like PPO is a RL algo and all NN types like CNN GAN RNN VGG NLP are supervised learning type of ML
+# TOKNOW: Q-learning algo is a solution to solve the RL issues on MDP env using bellman equation and DQN(DRL/DQL) is a combination of Q-learning algo with neural network
+# TOKNOW: for all uis of all ur apps just use adobexd and run all ur codes in a parallelism env in python parallel programming
+
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
 # TODO: make a python flask server and a sexy ui in dart flutter for text_classification_Emotion_Detection colab proj with more dataset to prevent the model from underfitting!
@@ -52,9 +56,6 @@
 # TODO: red square , NQAgent.py , sudokuAgent.py , connect game , telbot using DRL(DQN)/RNNLM/NLP , ai.py ideas , wocfulab.todo on top of these goals(data science vs csr)
 # TODO: implement DQN improvement algorithms and RL algos on MDP based env(DQN.pdf inside AI folder) also use genetic algo(Evolutionary Strategy/Deep Neuroevolution) PPO as an alternative for RL and other RL algos along with probability/statistics concepts
 # TODO: pygame|arcade|tkinter|openAIgym , CNN VGG and opencv , GAN , SL/USL , DCGAN , DRL(DQN(DNN,DQL)|ES|PPO|DN|GA) , RNNLM , NLP(NLU) , RNN(LSTM)
-# TOKNOW: ES/GA/DN is an alternative for RL and some algo like DDQN is an improvement algo for DQN(DRL) and other alog like PPO is a RL algo and all NN types like CNN GAN RNN VGG NLP are supervised learning type of ML
-# TOKNOW: Q-learning algo is a solution to solve the RL issues on MDP env using bellman equation and DQN(DRL/DQL) is a combination of Q-learning algo with neural network
-# TOKNOW: for all uis of all ur apps just use adobexd and run all ur codes in a parallelism env in python parallel programming
 '''
 use all articles and pdfs in UT folder for ANN and machine learning + create packer/encoder/crypter using ANN + use twitter db to build my dataset for NN in order to create a bot to comment on every post intelligently 
 hack all the things(idea) using ANN[tensorflow ANN hacking + raspi] => write ur ideas with above links & AI DL ML ANN concepts
