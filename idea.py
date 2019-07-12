@@ -99,6 +99,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://github.com/openai/baselines
 https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66
 http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/
 https://adventuresinmachinelearning.com/gensim-word2vec-tutorial/
