@@ -11,7 +11,8 @@
 # TOKNOW: lstm vs self-awareness and human memory
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
 # TOKNOW: ANI-AGI-ASI , all about NLP and its vectors
-# TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV) 
+# TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV)
+# TOKNOW: genetic algorithm as heuristic search method in all types of AI/ML/DL and all types of neural networks
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
 # TODO: make a python flask server and a sexy ui in dart flutter for text_classification_Emotion_Detection colab proj with more dataset to prevent the model from underfitting!
@@ -97,6 +98,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/
 https://adventuresinmachinelearning.com/gensim-word2vec-tutorial/
 https://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/
 https://adventuresinmachinelearning.com/recurrent-neural-networks-lstm-tutorial-tensorflow/
