@@ -12,7 +12,7 @@
 # TOKNOW: hyper dimensional computnig theaory for AI memory(self-awareness) alternatives to pytorch/tensorflow/keras traditional ann(RIL, SUPL, USUPL)
 # TOKNOW: ANI-AGI-ASI , all about NLP and its vectors
 # TOKNOW: openAI RL ppo vs deepNeuroevolution algo vs Hyperdimensional Computing Theory(HBV)
-# TOKNOW: genetic algorithm as heuristic search method in all types of AI/ML/DL and all types of neural networks
+# TOKNOW: genetic algorithm as a heuristic search method in all types of AI/ML/DL and all types of neural networks
 # TOKNOW: ES/GA/DN is an alternative for RL and some algo like DDQN is an improvement algo for DQN(DRL) and other alog like PPO is a RL algo and all NN types like CNN GAN RNN VGG NLP are supervised learning type of ML
 # TOKNOW: Q-learning algo is a solution to solve the RL issues on MDP env using bellman equation and DQN(DRL/DQL) is a combination of Q-learning algo with neural network
 # TOKNOW: for all uis of all ur apps just use adobexd and run all ur codes in a parallelism env in python parallel programming
