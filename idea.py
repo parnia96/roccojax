@@ -16,7 +16,7 @@
 # TOKNOW: ES/GA/DN is an alternative for RL and some algo like DDQN is an improvement algo for DQN(DRL) and other alog like PPO is a RL algo and all NN types like CNN GAN RNN VGG NLP are supervised learning type of ML
 # TOKNOW: Q-learning algo is a solution to solve the RL issues on MDP env using bellman equation and DQN(DRL/DQL) is a combination of Q-learning algo with neural network
 # TOKNOW: for all uis of all ur apps just use adobexd and run all ur codes in a parallelism env in python parallel programming
-
+# TOKNOW: deep neuroevolution(GA) vs openai ppo for RL in keras and tf on colab
 
 # TENET: AI & ANN in everything like making ur own anti-virus(statistics, dynamic and heuristic knowledge) stronger than windows defender using AI(AI must detect the all virus signatures and learn to find them)
 # TODO: make a python flask server and a sexy ui in dart flutter(cross platform backdoor all in flutter and dart) for text_classification_Emotion_Detection colab proj with more dataset to prevent the model from underfitting!
@@ -99,6 +99,12 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.youtube.com/watch?v=1XRahNzA5bE
+https://www.youtube.com/watch?v=VO1mCjHvzlo
+https://www.youtube.com/watch?v=WxQfQW48A4A
+https://www.youtube.com/watch?v=3begG_s9lzg
+https://www.youtube.com/watch?v=lehLSoMPmcM&t=2s
+https://www.youtube.com/watch?v=UvdWDcbAY7M
 https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-part-ii-trpo-ppo-87f2c5919bb9
 https://github.com/openai/baselines
 https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66
