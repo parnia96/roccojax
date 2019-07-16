@@ -99,6 +99,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/6.1-using-word-embeddings.nb.html
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 https://medium.com/@sabber/classifying-yelp-review-comments-using-cnn-lstm-and-pre-trained-glove-word-embeddings-part-3-53fcea9a17fa
 https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
 https://www.youtube.com/watch?v=1XRahNzA5bE
