@@ -99,6 +99,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/
 https://www.youtube.com/watch?v=1XRahNzA5bE
 https://www.youtube.com/watch?v=VO1mCjHvzlo
 https://www.youtube.com/watch?v=WxQfQW48A4A
