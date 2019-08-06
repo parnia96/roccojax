@@ -15,3 +15,4 @@
 # https://www.kaggle.com/thomasnelson/working-with-dna-sequence-data-for-ml
 # https://homes.cs.washington.edu/~bornholt/dnastorage-asplos16/
 # https://twistbioscience.com/company/blog/twistbiosiencednastoragefountain
+# TODO : dna computing using turing machine[encode/decode a dna] also create a woman using dna coding in python to combine ANN with dna
