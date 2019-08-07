@@ -99,6 +99,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
+https://www.kaggle.com/httpwwwfszyc/bert-keras-with-warmup-and-excluding-wd-parameters
 https://www.youtube.com/watch?v=ycXWAtm22-w
 https://medium.com/predict/creating-a-chatbot-from-scratch-using-keras-and-tensorflow-59e8fc76be79
 https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
