@@ -99,6 +99,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES & TUTS:
+https://www.youtube.com/watch?v=ycXWAtm22-w
 https://medium.com/predict/creating-a-chatbot-from-scratch-using-keras-and-tensorflow-59e8fc76be79
 https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
