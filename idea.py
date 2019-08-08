@@ -98,7 +98,8 @@ we need to get the players voice then convert them into words
 
 
 '''
-SOURCES & TUTS:
+SOURCES:
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
 https://www.kaggle.com/httpwwwfszyc/bert-keras-with-warmup-and-excluding-wd-parameters
 https://www.youtube.com/watch?v=ycXWAtm22-w
