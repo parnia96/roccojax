@@ -100,6 +100,7 @@ we need to get the players voice then convert them into words
 '''
 SOURCES:
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b
 https://www.youtube.com/watch?v=z8DY5DndmxI
 https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
 https://www.kaggle.com/httpwwwfszyc/bert-keras-with-warmup-and-excluding-wd-parameters
