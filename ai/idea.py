@@ -100,6 +100,8 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES:
+https://medium.com/@aallan/hands-on-with-the-coral-usb-accelerator-a37fcb323553
+https://blog.hackster.io/getting-started-with-the-intel-neural-compute-stick-2-and-the-raspberry-pi-6904ccfe963
 https://towardsdatascience.com/malware-detection-using-deep-learning-6c95dd235432
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b
