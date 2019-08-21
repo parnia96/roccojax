@@ -48,7 +48,7 @@
 # TODO: backdoor creation using ayncio , threading , raw socket , vocfu bag raspi hak5 tools and pytorch(tensorflow) RL blockchain IOT
 # TODO: Orcus scenarios bypassing using DoubleAgent(see below links for backdoor creation or backdoor bypassing using RL in pytorch)
 # TODO: all about tensors , graph & tree pathfinding and matrix/tensors in NLA and implement blockchain and iot on raspi(openwrt.org) using pytorch(AI) and a tpu/intel neural stick with a 3D printer on top of data science vs csr
-# TODO: malware detection using adversarial NN and malware training using DQN(DRL algos based on MDP framework and belman equation)
+# TODO: malware detection using generative adversarial NN and malware training using DQN(DRL algos based on MDP framework and belman equation)
 # TODO: create a code to destroy and burn the hard and cpu using pytorch , assembly[bash terminal(nasm)] and python rop libs like struct(focus on CSA and OS concepts inside bash terminal through cmd)
 # TODO: maze , Tic-tac-toe , 2048 , sudoku , N-queens , RL/GA(ES/DN) and data science in health-care , rasol PDE article , smart notebook idea using ANN , poerty agent , sweetheartbot , mafia(implement on raspi stuff tools with blockchain on top of pytorch)
 # TODO: build an WILAM application on top of ML with python flask backend using keras and pytorch and nuxt electron express flutter dart package for its ui(look wocfulab.todo for more details) also buil AI LCMS(javad idea) using ML algos
