@@ -100,6 +100,7 @@ we need to get the players voice then convert them into words
 
 '''
 SOURCES:
+https://towardsdatascience.com/malware-detection-using-deep-learning-6c95dd235432
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b
 https://www.youtube.com/watch?v=z8DY5DndmxI
