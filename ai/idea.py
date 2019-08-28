@@ -57,6 +57,7 @@
 # TODO: implement DQN improvement algorithms and RL algos on MDP based env(DQN.pdf inside AI folder) also use genetic algo(Evolutionary Strategy/Deep Neuroevolution) PPO as an alternative for RL and other RL algos along with probability/statistics concepts
 # TODO: pygame|arcade|tkinter|openAIgym , CNN VGG and opencv , GAN , SL/USL , DCGAN , DRL(DQN(DNN,DQL)|ES|PPO|DN|GA) , RNNLM , NLP(NLU) , RNN(LSTM)
 # TODO: IBPS app >> increase the beat of the given song by moving the time using RL eg: 3 beats increase per 30 secs
+# TODO: an async version of neural networks like each neuron is a Future object(Dart-lang)
 '''
 use all articles and pdfs in UT folder for ANN and machine learning + create packer/encoder/crypter using ANN + use twitter db to build my dataset for NN in order to create a bot to comment on every post intelligently 
 hack all the things(idea) using ANN[tensorflow ANN hacking + raspi] => write ur ideas with above links & AI DL ML ANN concepts
